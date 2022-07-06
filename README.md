@@ -1,5 +1,5 @@
 - 👋 Olá meu nome é Maria Luiza Rosa.
-- 👀 Estou aprendendo a programar o jogo pong e histórias.
+- 👀 Estou aprendendo a programar jogos no Scratch e JavaScript.
 - 🌱 Tenho curiosidade em aprender a editar fotos, videos.
 - 📫 Contato: maria.luiza.rosa@escola.pr.gov.br
 
